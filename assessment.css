@@ -1,6 +1,7 @@
 body {
   font-family: 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', 'Helvetica Neue', 'Segoe UI', 'BIZ UDGothic', Meiryo, -apple-system, BlinkMacSystemFont, sans-serif;
-  background-color: #88cb7f;
+
+  --bs-primary-bg-subtle: #88cb7f;
 }
 
 /*
